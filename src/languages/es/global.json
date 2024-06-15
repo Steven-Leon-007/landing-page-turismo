@@ -1,0 +1,10 @@
+{
+    "header": {
+        "nav-first": "Perfiles",
+        "nav-second": "Servicios",
+        "nav-third": "Contacto"
+    },
+    "home": {
+        "main-title": "Aquí va el titulo de la pagina principal"
+    }
+}
