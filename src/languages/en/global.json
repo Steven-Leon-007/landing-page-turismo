@@ -1,7 +1,7 @@
 {
     "header": {
-        "nav-first": "Profiles",
-        "nav-second": "Services",
+        "nav-first": "Services",
+        "nav-second": "Profiles",
         "nav-third": "Contact"
     },
     "home": {

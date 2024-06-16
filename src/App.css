@@ -7,6 +7,7 @@
 :root {
   --bg-color: #F1E3D3;
   --fg-color: #101010;
+  --second-bg-color: #c9ae7c;
   --clear-dtls-color: #F2D0A9;
   --dark-dtls-color: #8E7DBE;
 }
@@ -14,6 +15,7 @@
 [data-theme="dark"] {
   --bg-color: #0E1C2C;
   --fg-color: #F1E3D3;
+  --second-bg-color: #c9ae7c;
   --clear-dtls-color: #0d2f56;
   --dark-dtls-color: #718241;
 }
@@ -25,6 +27,7 @@ html {
 body {
   background-color: var(--bg-color);
   color: var(--fg-color);
+  overflow: hidden;
 }
 
 :is(h1, h2, h3, h4) {
